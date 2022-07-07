@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/codeworks-solution/static/css/main.ccbc9f88.css",
+    "main.js": "/codeworks-solution/static/js/main.48524af3.js",
+    "static/media/about.svg": "/codeworks-solution/static/media/about.c3eae7cac909a407d6bfce5155d98294.svg",
+    "index.html": "/codeworks-solution/index.html",
+    "main.ccbc9f88.css.map": "/codeworks-solution/static/css/main.ccbc9f88.css.map",
+    "main.48524af3.js.map": "/codeworks-solution/static/js/main.48524af3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbc9f88.css",
+    "static/js/main.48524af3.js"
+  ]
+}
