@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #011016;
+  
+}
+h1{
+  color: #8ad6fc;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+h2{
+  color: #02a9f7;
+  font-family: sans-serif;
+  font-size: 27px;
+}
+p{
+  font-family: 'Nunito', sans-serif;;
+  font-size: 16px;
+  color:rgb(92, 91, 91);
+}
+.btn{
+  border-top-right-radius: 0px;
+}
+.service{
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.icon:hover{
+  color:#02a9f7; ;
+}
